@@ -1,1 +1,3 @@
 this is application for fee.
+added dark mode
+and add horizintal 
